@@ -1,0 +1,41 @@
+body {
+    background-color: pink;
+}
+
+
+.box1{
+    width: 486px;
+    height: 240px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 100px;
+    background-color: #1F8135;
+    color: white;
+}
+
+.text1{
+    margin: 50px;
+}
+
+.box2{
+    width: 486px;
+    height: 240px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 100px;
+    background-color: #2496A6;
+    color: white;
+}
+
+.box3{
+    width: 486px;
+    height: 240px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 100px;
+    background-color: #7818C3;
+    color: white;
+}
